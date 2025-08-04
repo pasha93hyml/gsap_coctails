@@ -10,7 +10,7 @@ const App = () => {
     <main>
       <Navbar />
       <Hero />
-      <div className="h-[200dvh] bg-black" />
+
     </main>
   );
 };
